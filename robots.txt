@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /LawFirmWebsiteDemo/
+
+Sitemap: https://oqalbo.github.io/LawFirmWebsiteDemo/sitemap.xml
